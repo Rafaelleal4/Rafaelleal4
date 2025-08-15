@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Rafaelleal4!
+# 👋 Olá, eu sou o Rafael Leal!
 
 💻 Desenvolvedor Full Stack apaixonado por tecnologia, com experiência em soluções para Web e Mobile.  
 🎓 Formado em TDS pelo SENAI Valinhos, atualmente cursando Engenharia de Software na PUC.  
